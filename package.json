@@ -1,0 +1,18 @@
+{
+  "name": "typeorm-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.0.19",
+    "@types/sqlite3": "^3.1.0",
+    "nodemon": "^1.11.0",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.10",
+    "sqlite3": "^3.1.9",
+    "typeorm": "0.0.11"
+  }
+}
